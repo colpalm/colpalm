@@ -1,4 +1,4 @@
-## Hi there, I'm Colin 👋
+## Hi, I'm Colin 👋
 I'm a software engineer. I've worked across the full stack from general web development to building data pipelines and model deployment. Lately I've been focused on ML and LLMs, so you can usually find me fiddling with some python code.
 
 ### 🔭 Selected Projects/Work
